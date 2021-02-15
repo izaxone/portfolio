@@ -1,0 +1,57 @@
+body {
+  margin: 0;
+}
+
+.navbar {
+  background: white;
+  padding: .5em;
+}
+
+.navbar .container {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-content: space-between;
+}
+
+.hero .heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-content: space-between;
+}
+
+.hero .heading img {
+  width: 18em;
+  padding: 0 3em 4em 4em;
+}
+
+.hero .heading h2 {
+  width: 60%;
+}
+
+.hero .my-work {
+  text-align: center;
+}
+
+.hero .container {
+  display: block;
+  background-color: lightcyan;
+  padding: 3em 4em;
+  border: 2px solid red;
+}
+
+.hero .skills {
+  padding: 0 m;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  place-content: space-between;
+}
+
+footer {
+  text-align: center;
+  background-color: dimgray;
+  padding: 3em 5em;
+}
+/*# sourceMappingURL=main.css.map */
